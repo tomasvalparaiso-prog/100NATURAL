@@ -1,0 +1,8 @@
+{
+  "name": "100% Natural",
+  "description": "App de pedidos, reparto y gestión para 100% Natural.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

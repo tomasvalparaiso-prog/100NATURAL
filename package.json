@@ -1,0 +1,15 @@
+{
+  "name": "100-natural",
+  "version": "1.0.0",
+  "description": "App de pedidos, reparto y gestión para 100% Natural.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build completed')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
